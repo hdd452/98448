@@ -24,4 +24,4 @@
 平台设计简洁，操作直观，首页展示热门影片和今日更新。每部影片页面都有详细的演员资料、影片介绍和评论，帮助你快速做出选择。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hdd452/98448 ）</span>
